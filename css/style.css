@@ -25,3 +25,12 @@ html {
     background-color: deepskyblue;
     margin: 1rem;
 }
+.fizzbuzz {
+    background-color: red;
+}
+.buzz {
+    background-color: yellow;
+}
+.fizz {
+    background-color: green;
+}
